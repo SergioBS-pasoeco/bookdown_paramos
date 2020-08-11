@@ -1,23 +1,9 @@
 
 # Introducción {-}
-Zarith modificó esto
+
 =======
 
-Y un poquito aquí
-
-
 Este libro provee la información necesaria para manipular, depurar y analizar la información correspondiente a la composición de la vegetación en **los páramos de Colombia**. Utilizaremos para esto, datos de ocurrencias del **GBIF** y cada capitulo te llevará por el paso a paso a seguir para analizar este tipo de datos. Aprenderemos a estimar diversidad verdadera o números de Hill con el paquete **iNEXT**, realizar pruebas de hipótesis, regresiones lineales, análisis multivariados y mucho más con R.
-Modificando línea para crear conflictos de edición Modificando línea para crear conflictos de ediciónModificando línea para crear conflictos de ediciónModificando línea para crear conflictos de ediciónModificando línea para crear conflictos de edición
-
-
-Modificando línea para crear conflictos de edición Modificando línea para crear conflictos de ediciónModificando línea para crear conflictos de ediciónModificando línea para crear conflictos de ediciónModificando línea para crear conflictos de edición
-
-Aqui generando conflictos con Zarith
-
-poniendo texto aqui
-texto aquí
-Aquí también problemas a ver
-Codigo codigo
 
 
 
@@ -27,5 +13,3 @@ Codigo codigo
 >**_Sugerencia_**
 >
 >Para un mejor aprovechamiento de este libro y su aplicación usando R, es pertinente tener conocimientos básicos sobre la sintaxis y la estructura de datos que vamos a utilizar. Les recomendamos revisar nuestro curso básico de R en el siguiente enlace...
-  
-Aquí modifiqué también

@@ -9,9 +9,15 @@ Este libro provee la información necesaria para manipular, depurar y analizar l
 
 Aqui generando conflictos con Zarith
 
+
+texto aquí
+Aquí también problemas a ver
+Codigo codigo
+
+
+
 ![Fig. 1. Complejos de Páramo en el Neotrópico](map_par_V5.png){width=50%}
 
-Aquí también problemas a ver
 
 >**_Sugerencia_**
 >

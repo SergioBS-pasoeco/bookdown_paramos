@@ -19,3 +19,5 @@
 ## Extracción de características ambientales utilizando el paquete "raster"
 >`“Aquí aprenderás a extraer información espacial de los páramos y combinarla datos de diferentes fuentes”`
 
+
+Por aquí modificadmos también 

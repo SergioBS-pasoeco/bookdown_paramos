@@ -11,7 +11,7 @@ Este libro provee la información necesaria para manipular, depurar y analizar l
 
 Aqui generando conflictos con Zarith
 
-
+poniendo texto aqui
 texto aquí
 Aquí también problemas a ver
 Codigo codigo
